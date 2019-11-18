@@ -50,8 +50,8 @@ PRODUCT_PACKAGES += \
     librsjni
 
 # Some permissions
-PRODUCT_COPY_FILES += \
-    vendor/aosip/prebuilt/common/etc/permissions/privapp-permissions-recorder.xml:system/etc/permissions/privapp-permissions-recorder.xml
+#PRODUCT_COPY_FILES += \
+#    vendor/aosip/prebuilt/common/etc/permissions/privapp-permissions-recorder.xml:system/etc/permissions/privapp-permissions-recorder.xml
 
 # Accents
 PRODUCT_PACKAGES += \
